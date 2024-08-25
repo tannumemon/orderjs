@@ -1,0 +1,41 @@
+body{
+  
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+background-color: rgba(209, 90, 10, 0.548);
+  text-align: center;
+  align-items: center;
+  /* padding: 10px 0px 14px 9px; */
+ height: 100vh;
+}
+select#menu {
+    font-size: 25px;
+    
+}
+#submit{
+  margin-top: 20px;
+}
+h4 {
+  font-size: 30px;
+  font-weight: 900;
+}
+.all {
+  display: flex;
+  font-size: 30px;
+  font-weight: 900;
+}
+p#item {
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+button#add {
+  background: wheat;
+  border: 1px solid wheat;
+  font-size: 20px;
+  font-weight: 600;
+}
